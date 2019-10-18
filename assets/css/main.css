@@ -1,0 +1,30 @@
+#app{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    transform: scale(0.5);
+}
+li{
+    width: 100px;
+    height: 100px;
+}
+.li1{
+    background: url("../../public/img/01.jpg");
+}
+.li2{
+    background: url("../../public/img/02.jpg");
+}
+.li3{
+    background: url("../../public/img/03.jpg");
+}
+.li4{
+    background: url("../../public/img/04.jpeg");
+}
+::placeholder {
+    color: gray;
+}
